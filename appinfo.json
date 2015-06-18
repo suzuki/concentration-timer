@@ -1,0 +1,18 @@
+{
+  "uuid": "30419a70-1d68-44c6-a84c-519106bda030",
+  "shortName": "concentration-timer",
+  "longName": "concentration-timer",
+  "companyName": "0610.org",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
